@@ -28,10 +28,6 @@ The public dataset and its download link will be provided here after the paper i
 
 > **Dataset release:** Pending paper acceptance.
 
-## 💻 Code
-
-Evaluation and benchmark code will be released together with the dataset.
-
 ## 📝 Citation
 
 Citation information will be added after publication.
